@@ -19,9 +19,7 @@ The analysis is based on data obtained from Swayam Mart's internal databases. Th
 
 ## ScreenShoot
 
- | Page 1 | | Page 2 | | Page 3 |
-
- ![Page1](swayam/screenshot/Page_1.jpg) | ![Page2](swayam/screenshot/Page_1.jpg) | ![Page3](swayam/screenshot/Page_1.jpg)
+ ![Page1](swayam/screenshot/Page_1.jpg) | ![Page2](swayam/screenshot/Page_2.jpg) | ![Page3](swayam/screenshot/Page_3.jpg)
 
 
 
